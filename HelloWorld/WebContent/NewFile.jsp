@@ -7,6 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
+<%
+	out.print("Hello, world!");
 
+ %>
 </body>
 </html>
