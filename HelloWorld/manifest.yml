@@ -1,0 +1,6 @@
+---
+applications:
+- name: HelloWorld125
+  memory: 512M
+  host: HelloWorld125
+  domain: mybluemix.net
